@@ -1,0 +1,1 @@
+This is my first small website. And also the first assignment from the Odin Project.
